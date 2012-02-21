@@ -1,0 +1,103 @@
+material lth_face
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+				texture body.png
+			}
+		}
+	}
+}
+
+material lth_helmet
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+				texture vanquisher_leatherhelm.png
+			}
+		}
+	}
+}
+material lth_shoulders
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+				texture vanquisher_leather_shoulder.png
+			}
+		}
+	}
+}
+material lth_gloves
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+				texture leather_gloves.png
+			}
+		} 
+	}
+}
+material lth_chest
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+				texture leather_chest.png
+			}
+		}
+	}
+}
+material lth_boots
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+				texture leather_boots.png
+			}
+		}
+	}
+}

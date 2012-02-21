@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "ladyknight_skillicons" Imagefile="media/ui/itemicons/ladyknight_skillicons.png" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="skill_lk_zealslash_gray" XPos="0" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_lk_zealslash" XPos="64" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_lk_throwingsword2_gray" XPos="128" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_lk_throwingsword2" XPos="192" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_lk_thorns2_gray" XPos="256" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_lk_thorns2" XPos="320" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_lk_shieldreflect2_gray" XPos="384" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_lk_shieldreflect2" XPos="448" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_lk_shieldbash_gray" XPos="0" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_lk_shieldbash" XPos="64" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_lk_salvation2_gray" XPos="128" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_lk_salvation2" XPos="192" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_lk_radiance_gray" XPos="256" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_lk_radiance" XPos="320" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_lk_powerkick_gray" XPos="384" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_lk_powerkick" XPos="448" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_lk_lightnova_gray" XPos="0" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_lk_lightnovaknock_gray" XPos="64" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_lk_lightnovaknock" XPos="128" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_lk_lightnova" XPos="192" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_lk_lightbarrier_gray" XPos="256" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_lk_lightbarrier" XPos="320" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_lk_judgement_gray" XPos="384" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_lk_judgement" XPos="448" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_lk_heavensmite_gray" XPos="0" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_lk_heavensmite" XPos="64" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_lk_charge_gray" XPos="128" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_lk_charge" XPos="192" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_lk_burst_gray" XPos="256" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_lk_burst" XPos="320" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_lk_blessedaim2_gray" XPos="384" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_lk_blessedaim2" XPos="448" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_lk_bladeoflight_gray" XPos="0" YPos="256" Width="64" Height="64" />
+	<Image Name="skill_lk_bladeoflight" XPos="64" YPos="256" Width="64" Height="64" />
+</Imageset>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Imageset Name="ladyknight" Imagefile="media/ui/itemicons/ladyknightcharselect.png" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+    <Image Name="ladyknighticon" XPos="384" YPos="425" Width="128" Height="128" />
+    <Image Name="ladyknighticonlit" XPos="384" YPos="553" Width="128" Height="128" />
+    <Image Name="ladyknightselected" XPos="384" YPos="681" Width="128" Height="128" />
+</Imageset>

@@ -1,0 +1,100 @@
+material Gun_helmet
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			scene_blend alpha_blend
+			alpha_rejection greater 128
+			texture_unit
+			{
+				texture Vanq_Gun_Helm.PNG
+			}
+		}		
+	}
+}
+material Gun_gloves
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+				texture Vanq_Gun_Gloves.PNG
+			}
+		}		
+	}
+}
+material Gun_shoulders
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+				texture Vanq_Gun_Shoulder.PNG
+			}
+		}		
+	}
+}
+material Gun_boots
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+				texture Vanq_Gun_Boots.png
+			}
+		}		
+	}
+}
+material Gun_face
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.500000 0.500000 0.500000 1.000000
+			diffuse 0.640000 0.640000 0.640000 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.000000 0.000000 0.000000 1.000000
+		}
+	}
+}
+material Gun_chest
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+				texture Vanq_Gun_Chest.PNG
+			}
+		}		
+	}
+}

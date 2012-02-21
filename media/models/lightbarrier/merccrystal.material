@@ -1,0 +1,22 @@
+material ore
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0.37 0.37 0.37 0.37
+			emissive 0.427451 0.427451 0.427451
+			texture_unit
+			{
+				texture mine_ember_ore01.png
+			}
+			texture_unit
+			{
+				texture illum.dds
+				colour_op add
+			}
+		}
+	}
+}

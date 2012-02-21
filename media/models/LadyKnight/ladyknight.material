@@ -1,0 +1,86 @@
+material helmet
+{
+	
+	technique
+	{
+		pass
+		{
+			ambient 0.500000 0.500000 0.500000 1.000000
+			diffuse 0.640000 0.640000 0.640000 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.000000 0.000000 0.000000 1.000000
+		}
+	}
+}
+material chest
+{
+	
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0.5 0.5 0.5
+			texture_unit
+			{
+				texture body.png
+			}
+		}
+	}
+}
+material gloves
+{
+	
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0.5 0.5 0.5
+			texture_unit
+			{
+				texture body.png
+			}
+		}
+	}
+}
+material boots
+{
+	
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0.5 0.5 0.5
+			texture_unit
+			{
+				texture body.png
+			}
+		}
+	}
+}
+material face
+{
+	
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0.5 0.5 0.5
+			texture_unit
+			{
+				texture body.png
+			}
+		}
+	}
+}

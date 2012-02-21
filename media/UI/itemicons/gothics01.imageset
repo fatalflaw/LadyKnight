@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "gothics01" Imagefile="media/ui/itemicons/gothics01.png" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_gth_warsword_sm" XPos="0" YPos="0" Width="64" Height="96" />
+	<Image Name="icon_gth_smallshield_sm" XPos="64" YPos="0" Width="64" Height="96" />
+	<Image Name="icon_gth_shortsword_sm" XPos="128" YPos="0" Width="64" Height="96" />
+	<Image Name="icon_gth_scimitar_sm" XPos="192" YPos="0" Width="64" Height="96" />
+	<Image Name="icon_gth_scimitaru1_sm" XPos="256" YPos="0" Width="64" Height="96" />
+	<Image Name="icon_gth_longsword_sm" XPos="320" YPos="0" Width="64" Height="96" />
+	<Image Name="icon_gth_longswordu1_sm" XPos="384" YPos="0" Width="64" Height="96" />
+	<Image Name="icon_gth_largeshield_sm" XPos="448" YPos="0" Width="64" Height="96" />
+	<Image Name="icon_gth_kiteshield_sm" XPos="0" YPos="96" Width="64" Height="96" />
+	<Image Name="icon_gth_kiteshieldu2_sm" XPos="64" YPos="96" Width="64" Height="96" />
+	<Image Name="icon_gth_kiteshieldu1_sm" XPos="128" YPos="96" Width="64" Height="96" />
+	<Image Name="icon_gth_greatsword_sm" XPos="192" YPos="96" Width="64" Height="96" />
+	<Image Name="icon_gth_greatswordu1_sm" XPos="256" YPos="96" Width="64" Height="96" />
+	<Image Name="icon_gth_gothicshield_sm" XPos="320" YPos="96" Width="64" Height="96" />
+	<Image Name="icon_gth_gothicshieldu1_sm" XPos="384" YPos="96" Width="64" Height="96" />
+	<Image Name="icon_gth_giantsword_sm" XPos="448" YPos="96" Width="64" Height="96" />
+	<Image Name="icon_gth_giantswordu1_sm" XPos="0" YPos="192" Width="64" Height="96" />
+	<Image Name="icon_gth_buckler_sm" XPos="64" YPos="192" Width="64" Height="96" />
+	<Image Name="icon_gth_bastsword_sm" XPos="128" YPos="192" Width="64" Height="96" />
+	<Image Name="icon_gth_bastswordu1_sm" XPos="192" YPos="192" Width="64" Height="96" />
+</Imageset>

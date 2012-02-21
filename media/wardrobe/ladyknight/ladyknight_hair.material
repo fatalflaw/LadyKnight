@@ -1,0 +1,71 @@
+material helmet
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			scene_blend alpha_blend
+			alpha_rejection greater 128
+			texture_unit
+			{
+				texture ladyknight_hair_01.png
+			}  
+		}
+	}
+}
+material chest
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0 
+		}
+	}
+}
+material gloves
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0 
+		}
+	}
+}
+material boots
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0 
+		}
+	}
+}
+material face
+{	
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0 
+		}
+	}
+}
